@@ -1,0 +1,7 @@
+.terraform
+.terraform.lock.hcl
+terraform.log
+Makefile
+terraform.tfstate
+terraform.tfstate.backup
+vars.tfvars
